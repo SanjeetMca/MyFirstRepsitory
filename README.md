@@ -1,2 +1,2 @@
 # MyFirstRepsitory
-First Repository to learn 
+First Repository to learn and then commit
